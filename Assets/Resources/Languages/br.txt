@@ -1,0 +1,9 @@
+PLAYBUTTON=Jogar
+SETTINGSBUTTON=Configuracao
+MENUBUTTON=Menu
+RULESMENUNAME=Como jogar
+RESUMEBUTTON=Resumo
+RULESMENUTEXT=Jogue a bola e destrua a torre de latas. A cor da bola deve corresponder a lata que voce esta destruindo. Chegue a linha de chegada sem desperdicar todas as suas tentativas
+SETTINGSMENUNAME=Configuracao
+LEADERBOARD=Tabela de classificacao
+PAUSETEXT=Pausa

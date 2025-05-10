@@ -1,0 +1,9 @@
+PLAYBUTTON=Play
+SETTINGSBUTTON=Setting
+MENUBUTTON=Menu
+RULESMENUNAME=How to play
+RESUMEBUTTON=Resume
+RULESMENUTEXT=Throw the ball and destroy the can tower. The color of the ball must match the color of the can being destroyed. Get to the finish without spending all attempts
+SETTINGSMENUNAME=Setting
+LEADERBOARD=Leaderboard
+PAUSETEXT=Pause

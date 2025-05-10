@@ -1,0 +1,9 @@
+PLAYBUTTON=Играть
+SETTINGSBUTTON=Настройки
+MENUBUTTON=Меню
+RULESMENUNAME=Как играть
+RESUMEBUTTON=Дальше
+RULESMENUTEXT=Бросайте мяч и разрушайте башню из банок. Цвет мяча должен соответствовать цвету уничтожаемой банки. Доберитесь до финиша не потратив все попытки
+SETTINGSMENUNAME=Настройки
+LEADERBOARD=Таблица лидеров
+PAUSETEXT=Пауза
